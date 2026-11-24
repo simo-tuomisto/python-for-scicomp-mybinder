@@ -1,0 +1,30 @@
+name: python-for-scicomp
+channels:
+  - conda-forge
+dependencies:
+  - jsonlines
+  - jupyterlab
+  - notebook
+  - ipywidgets
+  - requests
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - mpi4py
+  - dask
+  - setuptools
+  - twine
+  - poetry
+  - flit
+  - scikit-learn
+  - scalene
+  - ruff
+  - altair-all
+  - vega_datasets
+  - xarray
+  - netcdf4
+  - yfinance
+  - pythia-datasets
+  - cython
+  - c-compiler
